@@ -1,0 +1,4 @@
+author: wylan
+name: captcha
+version: 0.2
+main: io.github.wylan.captcha.CaptchaPlugin
